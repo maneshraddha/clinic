@@ -1,0 +1,10 @@
+{
+"Doctors":
+[
+{"Name":"Dr. Shirish", "Id":1, "Specialization":"Heart", "Availability":"9 AM - 6 PM"},
+{"Name":"Dr. Sandhya", "Id":2, "Specialization":"Brain", "Availability":"12 PM - 8 PM"},
+{"Name":"Dr. Girish", "Id":3, "Specialization":"Skin", "Availability":"3 PM - 9 PM"},
+{"Name":"Dr. Suman", "Id":4, "Specialization":"Eyes", "Availability":"10 AM - 5 PM"},
+{"Name":"Dr. Hari", "Id":5, "Specialization":"General", "Availability":"11 AM - 7 PM"},
+]
+}
